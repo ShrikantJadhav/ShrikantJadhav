@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShrikantJadhav
 - 👀 I’m interested in Distributed systems, Web3, CNCF projects
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Rust and lots of other stuff
 - 📫 How to reach me shrikant.jadhav1@gmail.com
 
 <!---
