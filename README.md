@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShrikantJadhav
-- 👀 I’m interested in Distributed systems, Web3, CNCF projects
-- 🌱 I’m currently learning Rust and lots of other stuff
+- 👀 I’m interested in Distributed Systems, K8S, eBPF, Linux.
+- 🌱 I’m currently learning Rust, blockchain and many other things..
 - 📫 How to reach me shrikant.jadhav1@gmail.com
 
 <!---
